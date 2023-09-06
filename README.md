@@ -1,7 +1,5 @@
 <h2 align="left">Hye there 👋! <br><br>I'm Radadiya Jaimin, a dedicated self-taught developer hailing from India. My journey in the world of coding has been starting and my passion for all things tech has driven me to embark on this thrilling adventure of writing code.</h2>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
@@ -25,13 +23,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  /><br>
 </div>
 
-###
 
 <div align="left">
   - 💬 Ask me about anything, I am happy to help ;)
 </div>
 
-###
